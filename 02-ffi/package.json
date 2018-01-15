@@ -1,0 +1,16 @@
+{
+  "name": "supercharging-node-02",
+  "version": "1.0.0",
+  "description": "This example demonstrates offloading the intensive function to C using FFI",
+  "main": "index.js",
+  "scripts": {
+    "test": "time node .",
+    "build": "g++ -dynamiclib -o mainlib.dylib ./fibonacci.cpp"
+  },
+  "author": "John Bower",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "ref": "^1.3.5"
+  }
+}

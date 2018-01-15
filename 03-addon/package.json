@@ -1,0 +1,12 @@
+{
+  "name": "supercharging-node",
+  "version": "1.0.0",
+  "description": "This example demonstrates the use of a C++ Node Addon to get the highest performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "time node .",
+    "build": "node-gyp build"
+  },
+  "author": "John Bower",
+  "license": "ISC"
+}

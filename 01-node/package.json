@@ -1,0 +1,11 @@
+{
+  "name": "supercharging-node-01",
+  "version": "1.0.0",
+  "description": "This example demonstrates the blocking of the Node event loop with a time consuming function",
+  "main": "index.js",
+  "scripts": {
+    "test": "time node ."
+  },
+  "author": "John Bower",
+  "license": "ISC"
+}
