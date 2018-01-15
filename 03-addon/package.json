@@ -1,5 +1,5 @@
 {
-  "name": "supercharging-node",
+  "name": "supercharging-node-03",
   "version": "1.0.0",
   "description": "This example demonstrates the use of a C++ Node Addon to get the highest performance",
   "main": "index.js",
