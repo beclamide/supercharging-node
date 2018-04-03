@@ -1,6 +1,8 @@
 # supercharging-node
 Files to go with my talk about using C++ to make Node more performant
 
+Slides are available [here](https://docs.google.com/presentation/d/1QK9uqoGanz2oQeUKmNxb0L6VEgZ5wMwcvmRz5g58K_I/edit?usp=sharing)
+
 Each example can be speed tested by navigating to the folder and running `npm test`
 
 ## 01 - Node
