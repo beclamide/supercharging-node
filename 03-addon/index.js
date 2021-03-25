@@ -2,4 +2,4 @@
 
 const binding = require('./build/Release/binding.node');
 
-console.log(binding.mainFunc(40));
+console.log(binding.mainFunc(42));

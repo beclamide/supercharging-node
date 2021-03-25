@@ -8,4 +8,4 @@ const MyLibrary = ffi.Library('mainlib', {
   'fibonacci': [int, [int]]
 });
 
-MyLibrary.fibonacci.async(40, (error, response) => console.log(response));
+MyLibrary.fibonacci.async(42, (error, response) => console.log(response));
